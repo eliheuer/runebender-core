@@ -1,5 +1,4 @@
 # CLAUDE.md
 
-See [AGENTS.md](./AGENTS.md) for the shared cross-agent context
-(architecture, build, conventions, gotchas, multi-agent coordination
-protocol). Task-specific plans live under `.agents/`.
+Read `AGENTS.md`. It is the single set of instructions for every
+agent working in this repository, and for people too.
